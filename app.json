@@ -1,0 +1,12 @@
+{
+  "name": "ttgamestore-report-app",
+  "displayName": "ttgamestore-report-app",
+  "expo": {
+    "name": "ttgamestore-report-app",
+    "slug": "ttgamestore-report-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
